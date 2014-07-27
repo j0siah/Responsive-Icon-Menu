@@ -1,0 +1,14 @@
+{
+  "name": "myResponsiveMenu",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-stylus": "latest",
+    "grunt-contrib-cssmin" : "latest",
+    "grunt-autoprefixer": "latest",
+    "grunt-contrib-concat": "latest",
+    "grunt-slim": "latest"
+    
+  }
+}
